@@ -1,5 +1,5 @@
-#This is my hyper cool journal
-Written by:ME!!!
+#This is our hyper cool journal
+Written by: ME and David!!!
 ##Introduction
 
 This is a very important problem that I have been working on.
