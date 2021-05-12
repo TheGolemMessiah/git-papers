@@ -8,6 +8,11 @@ This is a very important problem that I have been working on.
 
 Really, really cool results.
 
+##Figures
+
+So wonderful, really. Only the best.
+
+
 ## References 
 
 Rubinov & Sporns (2009).
