@@ -1,5 +1,6 @@
 #This is my hyper cool journal
 Written by:ME!!!
+My affiliation: University of Montreal
 ##Introduction
 
 This is a very important problem that I have been working on.
